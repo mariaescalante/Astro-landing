@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Queja",
+        "description": "Queja de un cliente"
+    },
+
+    {
+        "title": "Reclamacion",
+        "description": "Reclamacion de un cliente"
+    },
+
+    {
+        "title": "Localización",
+        "description": "Localiza cada incidente"
+    },
+
+    {
+        "title": "Comentarios",
+        "description": "Comenta los incidentes"
+    },
+
+    {
+        "title": "Resolución",
+        "description": "Marca los incidentes como resueltos"
+    },
+
+    {
+        "title": "Contribución",
+        "description": "Contribuye a la comunidad"
+    }
+]
